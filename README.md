@@ -172,3 +172,7 @@ Function That Returns The Amount Of Indetifiers.
 This is a project for  [ALX School](https://www.alxafrica.com/)  by ALX Students.
 
 
+**Authors**
+=========
+- [Martins Umekwe](https://github.com/Decypher1)
+- [Odion Akhetuamhen](https://github.com/OdionAkhes).
